@@ -53,3 +53,7 @@ Final Investment Report
 - NSE Live Data Integration
 - Portfolio Tracking
 - AI Trade Journal
+
+## Why I Built This
+
+As a Senior Mobile Engineer exploring AI Agents and autonomous systems, I built this project to understand how multiple AI agents can collaborate to analyze financial markets and generate structured investment insights.
