@@ -1,7 +1,11 @@
+## Latest Release
+
+Version: v1.0.0 : https://github.com/devayanidahake/crewai-stock-market-analyzer/releases/tag/v1.0.0
+
 # AI Stock Market Advisor
 
 An AI-powered stock market analysis platform built using CrewAI, Groq LLMs, Yahoo Finance, and Technical Analysis indicators.
-
+https://github.com/devayanidahake/crewai-stock-market-analyzer/releases/tag/v1.0.0
 The system combines:
 
 - Market News Analysis
