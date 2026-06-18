@@ -12,6 +12,14 @@ The system combines:
 
 to generate actionable intraday trading recommendations.
 
+## Highlights
+
+- 4 AI Agents
+- 8 NSE Stocks Analyzed
+- Technical Indicators: RSI, EMA20, EMA50, MACD, ATR
+- News-driven Market Sentiment Analysis
+- Automated Risk Management
+
  ## Architecture Diagram
 News API
     │
@@ -72,10 +80,11 @@ The project combines market news, technical indicators, and risk management into
 
 ## Application Output
 
-Stock Analysis :
+- Stock Analysis :
 
-<img width="700" height="450" alt="stock-analysis" src="https://github.com/user-attachments/assets/fce03f48-d07b-4916-b750-c027128a2574" />
+<img width="679" height="450" alt="stock-analysis" src="https://github.com/user-attachments/assets/fce03f48-d07b-4916-b750-c027128a2574" />
 
-Final Output: 
-<img width="700" height="450" alt="final-report" src="https://github.com/user-attachments/assets/b85e1dba-fab7-4be3-a933-5acab0d18b7c" />
+- Final Output: 
+
+<img width="759" height="570" alt="final-report" src="https://github.com/user-attachments/assets/b85e1dba-fab7-4be3-a933-5acab0d18b7c" />
 
