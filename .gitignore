@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+reports/
+daily_report.md
+.DS_Store
+.vscode/
+.idea/
+venv/
+.venv/
